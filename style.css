@@ -1,0 +1,14 @@
+.big-text {
+  font-size: 20px;
+  font-family: Roboto, sans;
+  background-color: #ffd891;
+  color: #c17f05;
+}
+
+.big-text:hover {
+  font-size: 300px;
+  background-color: #ddaaf7;
+  color: #8204c1;
+  transition: font-size 2s ease-in 0s;  
+}
+
